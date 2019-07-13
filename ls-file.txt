@@ -1,1 +1,1 @@
-.git,index.js,node_modules,package-lock.json,package.json
+.git,index.js,ls-file.txt,node_modules,package-lock.json,package.json
